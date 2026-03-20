@@ -107,7 +107,7 @@ I am a **data analyst** who has worked across telecom CRM systems, retail sales 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sakthivel-Srinivasan&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=2E4057&icon_color=048A81"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthivel-Srinivasan&layout=compact&hide_border=true&title_color=2E4057&icon_color=048A81"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakthivel-Srinivasan&hide_border=true&ring=2E4057&fire=048A81&currStreakLabel=2E4057" height="180em"/>
 
 </div>
 
