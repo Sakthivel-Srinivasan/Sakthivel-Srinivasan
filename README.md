@@ -1,140 +1,74 @@
-# Hi there! 👋 I'm Sakthivel Srinivasan
-
 <div align="center">
-  
-### 📊 Data Analyst | Turning Data into Actionable Insights
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakthivel-srinivasan)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sakthivellore17@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Berlin%2C%20Germany-green?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Berlin)
+# Hi there, I'm Sakthivel Srinivasan 👋
+
+### Data Analyst | Berlin, Germany 🇩🇪
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakthivelurl/)
+[![Gmail](https://img.shields.io/badge/Gmail-sakthivellore17%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakthivellore17@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About me
 
-Data-driven professional with **3+ years** of hands-on experience in **sales analytics, quality assurance, and operational reporting** across telecom, retail, and B2B industries. Currently based in **Berlin, Germany**, actively seeking opportunities to leverage data for strategic business decisions.
+Data analyst with **3+ years of experience** across telecom, retail and e-commerce environments. I specialise in sales analytics, KPI reporting, dashboard creation and root-cause analysis. I have worked across CRM platforms, built automated reporting pipelines, and led quality audits that improved team performance.
 
-🔍 **What I Do Best:**
-- Transform raw operational data into **actionable insights**
-- Build **interactive dashboards** that drive business decisions
-- Improve **data quality** and **process efficiency** through analytics
-- Monitor **KPIs** and identify trends for performance optimization
-
-💡 **Currently Exploring:**
-- Advanced SQL optimization techniques
-- Machine learning for predictive analytics
-- Cloud-based data platforms (AWS, Azure)
+- 🔭 Currently building analytics projects in SQL, Power BI and Excel
+- 🌍 Based in Berlin | Open to data analyst roles across Germany and Europe
+- 🗣️ English (C2) | German (A2 and learning!)
+- 📫 Reach me at sakthivellore17@gmail.com
 
 ---
 
-## 🛠️ Technical Skills
+## Tech stack
 
-### Data Analysis & Visualization
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-Basic-E97627?style=flat&logo=tableau&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=flat&logo=python&logoColor=white)
+**Analytics and BI**
 
-### Tools & Platforms
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
-![CRM](https://img.shields.io/badge/CRM_Tools-00A4EF?style=flat&logo=salesforce&logoColor=white)
-![SQL Workbench](https://img.shields.io/badge/SQL_Workbench-00758F?style=flat&logo=mysql&logoColor=white)
-![Oracle Apex](https://img.shields.io/badge/Oracle_Apex-F80000?style=flat&logo=oracle&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 
-### Core Competencies
-```
-📈 KPI Tracking & Performance Measurement     🔍 Root Cause Analysis
-📊 Data Modeling & Visualization              🎯 Sales & Operations Analytics  
-🧹 Data Cleaning & Quality Assurance          📉 Trend Analysis & Forecasting
-📑 Dashboard Creation & Reporting             🤝 Stakeholder Management
-```
+**Data and querying**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+**Tools and platforms**
+
+![Oracle Apex](https://img.shields.io/badge/Oracle%20Apex-F80000?style=flat&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 💼 Featured Projects
+## Featured project
 
-### 📊 [Telecom Sales Performance Dashboard](https://github.com/sakthivel-data/sales-dashboard)
-> Interactive Power BI dashboard analyzing sales KPIs, conversion rates, and agent performance
-- **Tech Stack**: SQL, Power BI, Excel, DAX
-- **Key Results**: Identified top 3 products driving 65% of revenue, improved order completion rate by 35%
-- **Skills**: Sales analytics, data visualization, KPI design
+### 📊 Big Data Analytics Platform
+> Unified intelligence across Retail, Telecom and E-Commerce domains
 
-### 🎯 [Customer Segmentation & RFM Analysis](https://github.com/sakthivel-data/customer-segmentation)
-> Python-based customer segmentation using RFM methodology for targeted marketing
-- **Tech Stack**: Python (pandas, sklearn), SQL, Excel
-- **Key Results**: Identified VIP customers (15% generating 45% revenue), created 8 actionable segments
-- **Skills**: Customer analytics, segmentation, CLV calculation
+[![View Project](https://img.shields.io/badge/View%20Project-bigdata--analytics--platform-2E4057?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakthivel-Srinivasan/bigdata-analytics-platform)
 
-### 📋 [Quality Analytics Dashboard](https://github.com/sakthivel-data/quality-analytics)
-> Excel-based quality monitoring system tracking error rates and analyst performance
-- **Tech Stack**: Excel (Advanced), SQL, Power BI
-- **Key Results**: Reduced recurring errors by 40%, improved accuracy from 92% to 97%
-- **Skills**: Quality assurance, process optimization, performance tracking
+- 3 domains — retail sales, telecom CRM, e-commerce catalog quality
+- 2,500+ records, 40+ SQL queries
+- KPI dashboards, root-cause analysis, agent scorecards, window functions
+- Tools: SQL (MySQL and PostgreSQL), Power BI, Excel
 
 ---
 
-## 📈 GitHub Stats
+## Work highlights
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakthivel-data&show_icons=true&theme=default&hide_border=true)
-
-</div>
-
----
-
-## 💡 What Sets Me Apart
-
-✅ **Real-World Experience**: 3+ years analyzing operational data at scale (17+ agent teams, 1000+ daily transactions)  
-✅ **Business Impact Focus**: Always tie analysis to actionable recommendations and measurable outcomes  
-✅ **Cross-Functional Collaboration**: Experience working with sales, operations, and leadership teams  
-✅ **Quality-Driven**: Achieved 100% data accuracy in order-to-activation processes  
-✅ **Multi-Industry Exposure**: Telecom (Bell Mobility), Retail (Walmart), B2B Trading  
+| Company | Role | Domain |
+|---|---|---|
+| Foundever — Bell Mobility | Data Analyst Executive | Telecom CRM |
+| Kriya IT — Walmart | Data Analyst, Catalog and Quality | E-Commerce |
+| Srinivasa Traders | Junior Business Development Manager | B2B Sales |
 
 ---
 
-## 🏆 Achievements
+## GitHub stats
 
-🌟 **Bell All Star Agent** - Excellence in KPI performance and analytical reporting  
-🌟 **40% Error Reduction** - Led quality improvement initiative at Walmart catalog project  
-🌟 **100% Data Accuracy** - Zero-defect order processing in telecom sales operations  
-
----
-
-## 🎓 Education
-
-**Bachelor of Business Administration (Finance)**  
-Dr. M.G.R. Educational and Research Institute | 2021
-
-**Certifications** *(In Progress)*:
-- Microsoft Power BI Data Analyst Professional Certificate
-- SQL for Data Science (Coursera)
-
----
-
-## 📫 Let's Connect!
-
-I'm actively looking for **Data Analyst** roles in Berlin where I can contribute to data-driven decision-making and business growth. 
-
-💬 **Open to discussing:**
-- Data analytics opportunities
-- Collaboration on data projects
-- Best practices in BI and reporting
-- Networking with data professionals in Berlin
-
-📧 **Reach me at**: sakthivellore17@gmail.com  
-💼 **LinkedIn**: [linkedin.com/in/sakthivel-srinivasan](https://www.linkedin.com/in/sakthivel-srinivasan)  
-📍 **Location**: Berlin, Germany
-
----
-
-<div align="center">
-  
-### ⭐ "Data is the new oil, but analytics is the refinery" ⭐
-
-*Thanks for visiting my profile! Feel free to explore my projects and don't hesitate to reach out!*
-
-</div>
+![Sakthivel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakthivel
